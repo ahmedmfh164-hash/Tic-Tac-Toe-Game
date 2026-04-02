@@ -34,12 +34,12 @@ The program keeps track of turns, checks for a winner automatically, and shows t
 
 ## 📂 Project Structure
 
-XO_Game_Final
-│
-├── Form1.cs # Main game form
-├── Form2.cs # Start form (opens the game)
-├── Resources # Images (X, O, question mark)
-└── README.md
+XO_Game_Final  
+│  
+├── Form1.cs # Main game form  
+├── Form2.cs # Start form (opens the game)  
+├── Resources # Images (X, O, question mark)  
+└── README.md  
 
 ---
 
